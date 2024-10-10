@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{主成分分析Wik4:online}
+主成分分析 - wikipedia.
+\newblock \url{https://ja.wikipedia.org/wiki/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90}.
+\newblock (Accessed on 07/25/2024).
+
+\bibitem{misc_iris_53}
+R.~A. Fisher.
+\newblock {Iris}.
+\newblock UCI Machine Learning Repository, 1988.
+\newblock {DOI}: https://doi.org/10.24432/C56C76.
+
+\end{thebibliography}
